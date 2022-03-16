@@ -21,6 +21,8 @@ Uma visualização de mapa com propriedades disponíveis.
 Uma visualização de tabela com filtros de atributos.
 ![HouseMap](img/house_data.png)
 
+# Dashboard deploy on Heroku 
+http://vp-house-rocket.herokuapp.com/
 
 # Conjunto de Dados
 
