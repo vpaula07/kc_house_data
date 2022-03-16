@@ -1,6 +1,6 @@
 # House Rocket Data
 
-![House Rocket Data](img/house_rocket.png)
+![House Rocket Data](img/house_rocket_00.png)
 
 # Problema de negócios
 
